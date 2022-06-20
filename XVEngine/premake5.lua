@@ -19,6 +19,7 @@ project "XVEngine"
     "%{IncludeDir.GLFW}",
     "%{IncludeDir.glm}",
     "%{IncludeDir.XVUtilities}",
+    "%{IncludeDir.XVECS}",
     "$(VULKAN_SDK)/include",
   }
 
