@@ -1,0 +1,6 @@
+[submodule "XVEngine/XVRenderer"]
+	path = XVEngine/XVRenderer
+	url = https://github.com/spencertan/XVRenderer.git
+[submodule "XVEngine/XVECS"]
+	path = XVEngine/XVECS
+	url = https://github.com/spencertan/XVECS.git
